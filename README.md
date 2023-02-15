@@ -1,10 +1,11 @@
 # Mochachai
-Tugas Pekanan Sanbercode
+by Annisa Feranda
 
-How to Run :
-
+## How to Run :
+```bash
 npx mocha tugaspekanan4.js
+```
 
-Hasil Running :
+## Hasil Running :
 
 ![gambar](https://user-images.githubusercontent.com/114634923/219035502-be33790b-534e-4005-8592-5b095fc3b770.png)
