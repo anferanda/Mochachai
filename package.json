@@ -1,0 +1,25 @@
+{
+  "name": "mochachai",
+  "version": "1.0.0",
+  "description": "Tugas Pekanan Sanbercode",
+  "main": "tugaspekanan4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anferanda/Mochachai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anferanda/Mochachai/issues"
+  },
+  "homepage": "https://github.com/anferanda/Mochachai#readme",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "jsonschema": "^1.4.1",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3"
+  }
+}
